@@ -1,9 +1,7 @@
 samp-calc
 =========
-Download the file in working directory
+This app will calculate sample sizes according to the set parameters.
 
-Set Working Directory in R
+All the user needs to do is to download the server.R and ui.R into their working directory.
 
-Run ui.R
-
-Boom!
+Then run the app from R Studio to load the app!
